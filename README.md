@@ -1,4 +1,4 @@
-# AspectCalculator
+# Aspect Calculator
 ### A simple java console module that calculates aspect ratios.
 The module accepts new dimensions and scales original dimensions up or down proportionally.
 ## Use Cases
